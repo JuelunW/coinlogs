@@ -1,0 +1,2 @@
+# coinlogs
+privacy-policy
